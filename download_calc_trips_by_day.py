@@ -5,8 +5,8 @@ import pandas as pd
 
 df_list = []
 
-for year in range(2010,2011):
-    for month in range(2,3):
+for year in range(2010,2016):
+    for month in range(1,13):
         try:
             month = ("%02d" % (month))
             url = 'https://storage.googleapis.com/tlc-trip-data/' \
