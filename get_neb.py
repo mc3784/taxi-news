@@ -1,4 +1,3 @@
-import pandas as pd
 from ray_casting import *
 
 class NebChecker:
