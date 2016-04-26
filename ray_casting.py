@@ -46,57 +46,57 @@ def ispointinside(p, poly):
     return _odd(sum(rayintersectseg(p, edge)
                     for edge in poly.edges ))
  
-def polypp(poly):
-    print ("\n  Polygon(name='%s', edges=(" % poly.name)
-    print ('   ', ',\n    '.join(str(e) for e in poly.edges) + '\n    ))')
+# def polypp(poly):
+#     print ("\n  Polygon(name='%s', edges=(" % poly.name)
+#     print ('   ', ',\n    '.join(str(e) for e in poly.edges) + '\n    ))')
  
-if __name__ == '__main__':
-    polys = [
-      Poly(name='square', edges=(
-        Edge(a=Pt(x=0, y=0), b=Pt(x=10, y=0)),
-        Edge(a=Pt(x=10, y=0), b=Pt(x=10, y=10)),
-        Edge(a=Pt(x=10, y=10), b=Pt(x=0, y=10)),
-        Edge(a=Pt(x=0, y=10), b=Pt(x=0, y=0))
-        )),
-      Poly(name='square_hole', edges=(
-        Edge(a=Pt(x=0, y=0), b=Pt(x=10, y=0)),
-        Edge(a=Pt(x=10, y=0), b=Pt(x=10, y=10)),
-        Edge(a=Pt(x=10, y=10), b=Pt(x=0, y=10)),
-        Edge(a=Pt(x=0, y=10), b=Pt(x=0, y=0)),
-        Edge(a=Pt(x=2.5, y=2.5), b=Pt(x=7.5, y=2.5)),
-        Edge(a=Pt(x=7.5, y=2.5), b=Pt(x=7.5, y=7.5)),
-        Edge(a=Pt(x=7.5, y=7.5), b=Pt(x=2.5, y=7.5)),
-        Edge(a=Pt(x=2.5, y=7.5), b=Pt(x=2.5, y=2.5))
-        )),
-      Poly(name='strange', edges=(
-        Edge(a=Pt(x=0, y=0), b=Pt(x=2.5, y=2.5)),
-        Edge(a=Pt(x=2.5, y=2.5), b=Pt(x=0, y=10)),
-        Edge(a=Pt(x=0, y=10), b=Pt(x=2.5, y=7.5)),
-        Edge(a=Pt(x=2.5, y=7.5), b=Pt(x=7.5, y=7.5)),
-        Edge(a=Pt(x=7.5, y=7.5), b=Pt(x=10, y=10)),
-        Edge(a=Pt(x=10, y=10), b=Pt(x=10, y=0)),
-        Edge(a=Pt(x=10, y=0), b=Pt(x=2.5, y=2.5))
-        )),
-      Poly(name='exagon', edges=(
-        Edge(a=Pt(x=3, y=0), b=Pt(x=7, y=0)),
-        Edge(a=Pt(x=7, y=0), b=Pt(x=10, y=5)),
-        Edge(a=Pt(x=10, y=5), b=Pt(x=7, y=10)),
-        Edge(a=Pt(x=7, y=10), b=Pt(x=3, y=10)),
-        Edge(a=Pt(x=3, y=10), b=Pt(x=0, y=5)),
-        Edge(a=Pt(x=0, y=5), b=Pt(x=3, y=0))
-        )),
-      ]
-    testpoints = (Pt(x=5, y=5), Pt(x=5, y=8),
-                  Pt(x=-10, y=5), Pt(x=0, y=5),
-                  Pt(x=10, y=5), Pt(x=8, y=5),
-                  Pt(x=10, y=10))
+# if __name__ == '__main__':
+#     polys = [
+#       Poly(name='square', edges=(
+#         Edge(a=Pt(x=0, y=0), b=Pt(x=10, y=0)),
+#         Edge(a=Pt(x=10, y=0), b=Pt(x=10, y=10)),
+#         Edge(a=Pt(x=10, y=10), b=Pt(x=0, y=10)),
+#         Edge(a=Pt(x=0, y=10), b=Pt(x=0, y=0))
+#         )),
+#       Poly(name='square_hole', edges=(
+#         Edge(a=Pt(x=0, y=0), b=Pt(x=10, y=0)),
+#         Edge(a=Pt(x=10, y=0), b=Pt(x=10, y=10)),
+#         Edge(a=Pt(x=10, y=10), b=Pt(x=0, y=10)),
+#         Edge(a=Pt(x=0, y=10), b=Pt(x=0, y=0)),
+#         Edge(a=Pt(x=2.5, y=2.5), b=Pt(x=7.5, y=2.5)),
+#         Edge(a=Pt(x=7.5, y=2.5), b=Pt(x=7.5, y=7.5)),
+#         Edge(a=Pt(x=7.5, y=7.5), b=Pt(x=2.5, y=7.5)),
+#         Edge(a=Pt(x=2.5, y=7.5), b=Pt(x=2.5, y=2.5))
+#         )),
+#       Poly(name='strange', edges=(
+#         Edge(a=Pt(x=0, y=0), b=Pt(x=2.5, y=2.5)),
+#         Edge(a=Pt(x=2.5, y=2.5), b=Pt(x=0, y=10)),
+#         Edge(a=Pt(x=0, y=10), b=Pt(x=2.5, y=7.5)),
+#         Edge(a=Pt(x=2.5, y=7.5), b=Pt(x=7.5, y=7.5)),
+#         Edge(a=Pt(x=7.5, y=7.5), b=Pt(x=10, y=10)),
+#         Edge(a=Pt(x=10, y=10), b=Pt(x=10, y=0)),
+#         Edge(a=Pt(x=10, y=0), b=Pt(x=2.5, y=2.5))
+#         )),
+#       Poly(name='exagon', edges=(
+#         Edge(a=Pt(x=3, y=0), b=Pt(x=7, y=0)),
+#         Edge(a=Pt(x=7, y=0), b=Pt(x=10, y=5)),
+#         Edge(a=Pt(x=10, y=5), b=Pt(x=7, y=10)),
+#         Edge(a=Pt(x=7, y=10), b=Pt(x=3, y=10)),
+#         Edge(a=Pt(x=3, y=10), b=Pt(x=0, y=5)),
+#         Edge(a=Pt(x=0, y=5), b=Pt(x=3, y=0))
+#         )),
+#       ]
+#     testpoints = (Pt(x=5, y=5), Pt(x=5, y=8),
+#                   Pt(x=-10, y=5), Pt(x=0, y=5),
+#                   Pt(x=10, y=5), Pt(x=8, y=5),
+#                   Pt(x=10, y=10))
  
-    print ("\n TESTING WHETHER POINTS ARE WITHIN POLYGONS")
-    for poly in polys:
-        polypp(poly)
-        print ('   ', '\t'.join("%s: %s" % (p, ispointinside(p, poly))
-                               for p in testpoints[:3]))
-        print ('   ', '\t'.join("%s: %s" % (p, ispointinside(p, poly))
-                               for p in testpoints[3:6]))
-        print ('   ', '\t'.join("%s: %s" % (p, ispointinside(p, poly))
-                               for p in testpoints[6:]))
+#     print ("\n TESTING WHETHER POINTS ARE WITHIN POLYGONS")
+#     for poly in polys:
+#         polypp(poly)
+#         print ('   ', '\t'.join("%s: %s" % (p, ispointinside(p, poly))
+#                                for p in testpoints[:3]))
+#         print ('   ', '\t'.join("%s: %s" % (p, ispointinside(p, poly))
+#                                for p in testpoints[3:6]))
+#         print ('   ', '\t'.join("%s: %s" % (p, ispointinside(p, poly))
+#                                for p in testpoints[6:]))
