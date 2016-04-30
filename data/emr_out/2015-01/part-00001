@@ -1,0 +1,458 @@
+2015-01-01,Bay Ridge,80	
+2015-01-01,Downtown,980	
+2015-01-01,East Village,17647	
+2015-01-01,Garment District,18344	
+2015-01-01,Harlem,3385	
+2015-01-01,Laurelton,6	
+2015-01-01,Maspeth,56	
+2015-01-01,Morris Park,21	
+2015-01-01,New Brighton,1	
+2015-01-01,Nkew Gardens,104	
+2015-01-01,Park Slope,968	
+2015-01-01,South Bronx,185	
+2015-01-01,Upper West Side,17028	
+2015-01-01,Washington Heights,1443	
+2015-01-02,Bedford-Stuyvesant,219	
+2015-01-02,Clinton,11375	
+2015-01-02,East Brooklyn,11	
+2015-01-02,Fordham,3	
+2015-01-02,Inwood,24	
+2015-01-02,North Sutton Area,3405	
+2015-01-02,Red Hook,1	
+2015-01-02,South Bronx,36	
+2015-01-02,Spuyten Duyvil,3	
+2015-01-02,Sunny Side,890	
+2015-01-03,Clearview,1	
+2015-01-03,Financial District,7057	
+2015-01-03,Forest Hills,117	
+2015-01-03,Glendale,15	
+2015-01-03,Hamilton Heights,630	
+2015-01-03,Jackson Heights,372	
+2015-01-03,Middle Village,10	
+2015-01-03,Ridgewood,23	
+2015-01-03,Sunset Park,1	
+2015-01-04,Auburndale,4	
+2015-01-04,Baychester,1	
+2015-01-04,Bedford Park,4	
+2015-01-04,Boerum Hill,414	
+2015-01-04,Brownsville,12	
+2015-01-04,Central Park,3102	
+2015-01-04,East Brooklyn,12	
+2015-01-04,East Harlem,767	
+2015-01-04,Greenwich Village,16409	
+2015-01-04,Greenwood,47	
+2015-01-04,Jamaica,95	
+2015-01-04,Mapleton-Flatlands,39	
+2015-01-04,Morris Heights,9	
+2015-01-04,Springfield Gardens,8	
+2015-01-04,Throggs Neck,2	
+2015-01-04,Tremont,8	
+2015-01-04,Williamsburg,1545	
+2015-01-04,Woodhaven-Richmond Hill,19	
+2015-01-04,other,18742	
+2015-01-05,Bushwick,62	
+2015-01-05,Chelsea,22169	
+2015-01-05,Coney Island,1	
+2015-01-05,Garment District,21363	
+2015-01-05,Greenwood,31	
+2015-01-05,High Bridge,20	
+2015-01-05,Kings Bridge,4	
+2015-01-05,Murray Hill,11957	
+2015-01-05,Queensboro Hill,7	
+2015-01-05,University Heights,5	
+2015-01-05,Upper West Side,17154	
+2015-01-06,Battery Park,3313	
+2015-01-06,Bensonhurst,14	
+2015-01-06,Canarsie,3	
+2015-01-06,College Point,14400	
+2015-01-06,Downtown,566	
+2015-01-06,Eastchester,8	
+2015-01-06,Fort Green,509	
+2015-01-06,Gramercy,30039	
+2015-01-06,High Bridge,29	
+2015-01-06,Hunts Point,4	
+2015-01-06,Maspeth,23	
+2015-01-06,Morningside Heights,1561	
+2015-01-06,Parkchester,3	
+2015-01-06,Union Port,6	
+2015-01-06,Upper East Side,53107	
+2015-01-06,Woodside,321	
+2015-01-06,other,18973	
+2015-01-07,Ardon Heights,3	
+2015-01-07,Astoria-Long Island City,1632	
+2015-01-07,Bloomfield-Chelsea-Travis,1	
+2015-01-07,Chinatown,999	
+2015-01-07,Clinton,11616	
+2015-01-07,Cobble Hill,231	
+2015-01-07,Country Club,1	
+2015-01-07,Eastchester,4	
+2015-01-07,Flushing,33	
+2015-01-07,Jackson Heights,263	
+2015-01-07,Mott Haven,119	
+2015-01-07,New Brighton,1	
+2015-01-07,Nkew Gardens,71	
+2015-01-07,North Sutton Area,4502	
+2015-01-07,Red Hook,1	
+2015-01-07,Riverdale,2	
+2015-01-07,Rosedale,7802	
+2015-01-07,Saintalbans,2	
+2015-01-07,Soho,8717	
+2015-01-07,Soundview,6	
+2015-01-07,Spuyten Duyvil,1	
+2015-01-07,Whitestone,604	
+2015-01-07,Williams Bridge,1	
+2015-01-07,Yorkville,60	
+2015-01-08,Astoria-Long Island City,1775	
+2015-01-08,Bedford-Stuyvesant,220	
+2015-01-08,College Point,15765	
+2015-01-08,Douglastown-Little Neck,33	
+2015-01-08,Glendale,5	
+2015-01-08,Middle Village,8	
+2015-01-08,Park Slope,311	
+2015-01-08,Queens Village,7	
+2015-01-08,Riverdale,5	
+2015-01-08,Tribeca,7628	
+2015-01-08,Utopia,39	
+2015-01-08,other,21598	
+2015-01-09,Astoria-Long Island City,2478	
+2015-01-09,Bay Ridge,27	
+2015-01-09,Borough Park,1	
+2015-01-09,Carroll Gardens,591	
+2015-01-09,Financial District,9049	
+2015-01-09,Forest Hills,110	
+2015-01-09,Greenwich Village,20268	
+2015-01-09,Harlem,2049	
+2015-01-09,Jamaica,95	
+2015-01-09,Lower East Side,9190	
+2015-01-09,Morris Park,7	
+2015-01-09,Queensboro Hill,4	
+2015-01-09,South Bronx,39	
+2015-01-09,The Rockaways,3	
+2015-01-09,Williamsburg,1352	
+2015-01-10,Astoria-Long Island City,3171	
+2015-01-10,Auburndale,2	
+2015-01-10,Cobble Hill,247	
+2015-01-10,Eastchester,8	
+2015-01-10,Flushing,49	
+2015-01-10,Middle Village,10	
+2015-01-10,Parkchester,18	
+2015-01-10,Rosedale,8043	
+2015-01-10,Saintalbans,1	
+2015-01-10,Tremont,10	
+2015-01-10,Upper West Side,25487	
+2015-01-10,Woodlawn-Nordwood,6	
+2015-01-11,Astoria-Long Island City,2857	
+2015-01-11,Borough Park,9	
+2015-01-11,Chelsea,28896	
+2015-01-11,Chinatown,1552	
+2015-01-11,City Island,1	
+2015-01-11,Dyker Heights,7	
+2015-01-11,Financial District,6219	
+2015-01-11,Glendale,8	
+2015-01-11,Morningside Heights,1490	
+2015-01-11,Morris Heights,9	
+2015-01-11,North Sutton Area,3969	
+2015-01-11,Riverdale,3	
+2015-01-11,Soundview,7	
+2015-01-11,Williamsburg,2338	
+2015-01-11,Yorkville,67	
+2015-01-12,Astoria-Long Island City,1574	
+2015-01-12,Coney Island,3	
+2015-01-12,Fort Green,573	
+2015-01-12,Jackson Heights,320	
+2015-01-12,Little Italy,2472	
+2015-01-12,Mapleton-Flatlands,25	
+2015-01-12,Maspeth,26	
+2015-01-12,Morris Park,6	
+2015-01-12,Riverdale,2	
+2015-01-12,Union Port,7	
+2015-01-13,Astoria-Long Island City,1625	
+2015-01-13,Battery Park,4095	
+2015-01-13,Bay Ridge,12	
+2015-01-13,Clinton,16275	
+2015-01-13,Fordham,5	
+2015-01-13,Greenwich Village,18415	
+2015-01-13,Kings Bridge,4	
+2015-01-13,Laurelton,2	
+2015-01-13,Mott Haven,111	
+2015-01-13,Soho,9278	
+2015-01-13,South Bronx,23	
+2015-01-13,University Heights,4	
+2015-01-13,Utopia,32	
+2015-01-13,West Village,9396	
+2015-01-13,Whitestone,602	
+2015-01-14,Astoria-Long Island City,1886	
+2015-01-14,Canarsie,2	
+2015-01-14,Carroll Gardens,526	
+2015-01-14,East Village,11666	
+2015-01-14,Gramercy,35422	
+2015-01-14,Hamilton Heights,583	
+2015-01-14,Harlem,1517	
+2015-01-14,Lower East Side,7225	
+2015-01-14,Midtown,84262	
+2015-01-14,Nkew Gardens,45	
+2015-01-14,Park Slope,324	
+2015-01-14,Queensboro Hill,5	
+2015-01-14,Spuyten Duyvil,4	
+2015-01-14,Steinway,7108	
+2015-01-14,Upper West Side,19427	
+2015-01-14,Woodhaven-Richmond Hill,11	
+2015-01-14,Woodside,335	
+2015-01-15,Astoria-Long Island City,1872	
+2015-01-15,Brownsville,5	
+2015-01-15,Bushwick,104	
+2015-01-15,East Brooklyn,4	
+2015-01-15,Flushing,32	
+2015-01-15,Inwood,20	
+2015-01-15,Jamaica,95	
+2015-01-15,Middle Village,11	
+2015-01-15,Richmondtown,1	
+2015-01-15,Rosedale,7355	
+2015-01-15,Sunny Side,1360	
+2015-01-15,Sunset Park,4	
+2015-01-15,Tremont,8	
+2015-01-15,Upper East Side,61071	
+2015-01-15,Washington Heights,403	
+2015-01-16,Astoria-Long Island City,2169	
+2015-01-16,Bedford-Stuyvesant,303	
+2015-01-16,Boerum Hill,492	
+2015-01-16,Chelsea,32803	
+2015-01-16,Downtown,805	
+2015-01-16,East Harlem,980	
+2015-01-16,Flatbush,1	
+2015-01-16,Forest Hills,165	
+2015-01-16,Garment District,27316	
+2015-01-16,Inwood,34	
+2015-01-16,Morris Heights,6	
+2015-01-16,North Sutton Area,5304	
+2015-01-16,Ridgewood,17	
+2015-01-16,Springfield Gardens,14	
+2015-01-16,Williams Bridge,3	
+2015-01-17,Astoria-Long Island City,2695	
+2015-01-17,Bedford Park,12	
+2015-01-17,Bensonhurst,7	
+2015-01-17,Central Park,4007	
+2015-01-17,East Brooklyn,9	
+2015-01-17,Financial District,8409	
+2015-01-17,Greenwood,58	
+2015-01-17,High Bridge,33	
+2015-01-17,Hunts Point,4	
+2015-01-17,Maspeth,39	
+2015-01-17,Murray Hill,13356	
+2015-01-17,Red Hook,1	
+2015-01-17,Throggs Neck,8	
+2015-01-17,Williamsburg,2674	
+2015-01-18,Astoria-Long Island City,2878	
+2015-01-18,Carroll Gardens,755	
+2015-01-18,Clinton,15910	
+2015-01-18,Cobble Hill,235	
+2015-01-18,Coney Island,5	
+2015-01-18,Douglastown-Little Neck,8	
+2015-01-18,Eastchester,12	
+2015-01-18,Greenwich Village,24458	
+2015-01-18,Kings Bridge,22	
+2015-01-18,Lower East Side,16145	
+2015-01-18,Mapleton-Flatlands,64	
+2015-01-18,Morningside Heights,1907	
+2015-01-18,Parkchester,27	
+2015-01-18,Queensboro Hill,12	
+2015-01-18,Saintalbans,2	
+2015-01-19,Astoria-Long Island City,1636	
+2015-01-19,Battery Park,2448	
+2015-01-19,Chinatown,1037	
+2015-01-19,Clifton,2	
+2015-01-19,College Point,12062	
+2015-01-19,Fort Green,673	
+2015-01-19,Soundview,6	
+2015-01-19,Spuyten Duyvil,2	
+2015-01-19,Steinway,5929	
+2015-01-19,Tribeca,4456	
+2015-01-19,Union Port,3	
+2015-01-19,University Heights,3	
+2015-01-19,Upper East Side,45342	
+2015-01-19,Yorkville,51	
+2015-01-20,Astoria-Long Island City,1506	
+2015-01-20,Auburndale,3	
+2015-01-20,Carnegie Hill,5761	
+2015-01-20,Dyker Heights,1	
+2015-01-20,Hamilton Heights,541	
+2015-01-20,High Bridge,26	
+2015-01-20,Inwood,19	
+2015-01-20,Kings Bridge,6	
+2015-01-20,Midtown,72358	
+2015-01-20,Murray Hill,15044	
+2015-01-20,North Sutton Area,4191	
+2015-01-20,Park Slope,252	
+2015-01-20,Ridgewood,7	
+2015-01-20,Soho,8671	
+2015-01-20,The Rockaways,2	
+2015-01-20,Upper East Side,55962	
+2015-01-20,West Village,8162	
+2015-01-21,Astoria-Long Island City,1432	
+2015-01-21,Battery Park,3971	
+2015-01-21,Bensonhurst,4	
+2015-01-21,East Village,11085	
+2015-01-21,Eastchester,4	
+2015-01-21,Greenwood,31	
+2015-01-21,Hunts Point,8	
+2015-01-21,Jackson Heights,270	
+2015-01-21,Parkchester,6	
+2015-01-21,Saintalbans,3	
+2015-01-21,Springfield Gardens,6	
+2015-01-21,Spuyten Duyvil,2	
+2015-01-21,Sunny Side,1129	
+2015-01-21,Tremont,3	
+2015-01-21,Westerleigh-Castleton,1	
+2015-01-22,Astoria-Long Island City,1571	
+2015-01-22,Canarsie,3	
+2015-01-22,Carnegie Hill,6232	
+2015-01-22,Charlestown-Richmond Valley,1	
+2015-01-22,Chelsea,30426	
+2015-01-22,City Island,1	
+2015-01-22,Cobble Hill,213	
+2015-01-22,Country Club,1	
+2015-01-22,Dyker Heights,3	
+2015-01-22,Greenwich Village,19414	
+2015-01-22,Middle Village,7	
+2015-01-22,Nkew Gardens,32	
+2015-01-22,Richmondtown,1	
+2015-01-22,Saintalbans,1	
+2015-01-22,Steinway,7286	
+2015-01-22,The Rockaways,1	
+2015-01-22,University Heights,5	
+2015-01-22,Woodside,303	
+2015-01-23,Astoria-Long Island City,1870	
+2015-01-23,Auburndale,2	
+2015-01-23,Bushwick,159	
+2015-01-23,Carroll Gardens,518	
+2015-01-23,Chinatown,1319	
+2015-01-23,Flushing,35	
+2015-01-23,Lower East Side,9596	
+2015-01-23,Maspeth,25	
+2015-01-23,Morningside Heights,2229	
+2015-01-23,Morris Heights,10	
+2015-01-23,Queensboro Hill,4	
+2015-01-23,Rosedale,7253	
+2015-01-23,Washington Heights,437	
+2015-01-23,Yorkville,58	
+2015-01-24,Astoria-Long Island City,2598	
+2015-01-24,Borough Park,22	
+2015-01-24,Carnegie Hill,4164	
+2015-01-24,Chinatown,1842	
+2015-01-24,Clinton,16355	
+2015-01-24,Downtown,666	
+2015-01-24,Dyker Heights,3	
+2015-01-24,Fordham,14	
+2015-01-24,Morris Park,4	
+2015-01-24,Queens Village,2	
+2015-01-24,Riverdale,6	
+2015-01-24,Soundview,18	
+2015-01-24,South Bronx,49	
+2015-01-24,Upper East Side,56575	
+2015-01-24,Williamsburg,2438	
+2015-01-24,Woodhaven-Richmond Hill,25	
+2015-01-24,Woodlawn-Nordwood,5	
+2015-01-25,Astoria-Long Island City,2378	
+2015-01-25,Bay Ridge,18	
+2015-01-25,Bedford-Stuyvesant,431	
+2015-01-25,Coney Island,7	
+2015-01-25,Fort Green,1211	
+2015-01-25,Hamilton Heights,730	
+2015-01-25,Laurelton,3	
+2015-01-25,Little Italy,4902	
+2015-01-25,Midtown,53790	
+2015-01-25,North Sutton Area,3933	
+2015-01-25,Red Hook,4	
+2015-01-25,Union Port,2	
+2015-01-25,Williams Bridge,1	
+2015-01-26,Astoria-Long Island City,1440	
+2015-01-26,Battery Park,2177	
+2015-01-26,Bay Ridge,3	
+2015-01-26,Bayside,2	
+2015-01-26,Brownsville,5	
+2015-01-26,Glendale,6	
+2015-01-26,Great Kills,1	
+2015-01-26,Jamaica,74	
+2015-01-26,Kings Bridge,5	
+2015-01-26,Laurelton,3	
+2015-01-26,Mott Haven,89	
+2015-01-26,Spuyten Duyvil,1	
+2015-01-26,Sunset Park,3	
+2015-01-26,Tremont,10	
+2015-01-26,Utopia,38	
+2015-01-26,West Village,4326	
+2015-01-26,Whitestone,386	
+2015-01-27,Astoria-Long Island City,822	
+2015-01-27,Boerum Hill,121	
+2015-01-27,Brownsville,4	
+2015-01-27,Carroll Gardens,157	
+2015-01-27,Chelsea,7701	
+2015-01-27,East Harlem,365	
+2015-01-27,East Village,4692	
+2015-01-27,Garment District,5460	
+2015-01-27,Greenwich Village,6289	
+2015-01-27,Lower East Side,2304	
+2015-01-27,Middle Village,4	
+2015-01-27,Nkew Gardens,31	
+2015-01-27,Park Slope,121	
+2015-01-27,Queensboro Hill,4	
+2015-01-27,Soho,2698	
+2015-01-28,Astoria-Long Island City,1491	
+2015-01-28,Bushwick,45	
+2015-01-28,Douglastown-Little Neck,8	
+2015-01-28,East Brooklyn,5	
+2015-01-28,Harlem,1403	
+2015-01-28,High Bridge,28	
+2015-01-28,Maspeth,24	
+2015-01-28,Morris Heights,1	
+2015-01-28,Murray Hill,13624	
+2015-01-28,Ridgewood,10	
+2015-01-28,South Beach,1	
+2015-01-28,Springfield Gardens,9	
+2015-01-28,Sunny Side,1089	
+2015-01-28,Upper East Side,53833	
+2015-01-29,Astoria-Long Island City,1645	
+2015-01-29,Bensonhurst,28	
+2015-01-29,Canarsie,1	
+2015-01-29,Clinton,11996	
+2015-01-29,Eastchester,4	
+2015-01-29,Forest Hills,112	
+2015-01-29,Gramercy,35402	
+2015-01-29,Greenwood,35	
+2015-01-29,Hamilton Heights,634	
+2015-01-29,Hunts Point,8	
+2015-01-29,Inwood,28	
+2015-01-29,Parkchester,5	
+2015-01-29,Steinway,6965	
+2015-01-29,Todt Hill,1	
+2015-01-29,Washington Heights,365	
+2015-01-29,Williams Bridge,7	
+2015-01-29,Woodlawn-Nordwood,1	
+2015-01-29,Woodside,281	
+2015-01-30,Bay Ridge,20	
+2015-01-30,Boerum Hill,584	
+2015-01-30,Brownsville,9	
+2015-01-30,College Point,16869	
+2015-01-30,East Harlem,1252	
+2015-01-30,Fordham,5	
+2015-01-30,Jackson Heights,382	
+2015-01-30,Laurelton,3	
+2015-01-30,Morris Heights,11	
+2015-01-30,Sunset Park,4	
+2015-01-30,University Heights,8	
+2015-01-30,Wakefield-Williamsbridge,2	
+2015-01-31,Boerum Hill,711	
+2015-01-31,Borough Park,3	
+2015-01-31,Bushwick,325	
+2015-01-31,East Harlem,1278	
+2015-01-31,Forest Hills,143	
+2015-01-31,Greenwich Village,31721	
+2015-01-31,Hamilton Heights,1046	
+2015-01-31,Midtown,68055	
+2015-01-31,Murray Hill,14297	
+2015-01-31,Queens Village,3	
+2015-01-31,Union Port,5	
+2015-01-31,Utopia,41	
+2015-01-31,Wakefield-Williamsbridge,7	
+2015-01-31,Williamsburg,2895	
+2015-01-31,other,20793	
